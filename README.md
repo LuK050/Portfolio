@@ -1,6 +1,3 @@
-# Портфолио \_LuK__
-<br>
-
 ## Discord бот для «SkinOFF»
 [SkinOFF](https://twitter.com/skinoffstudio) - творческое объединение в сфере Minecraft. Основное направление - рисование скинов, 3Д моделей, артов и т.п.
 
